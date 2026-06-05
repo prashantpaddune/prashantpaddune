@@ -1,4 +1,4 @@
-### Hi, I'm Prashant 👋 — Senior Frontend Engineer based in Mumbai, India
+### Hi, I'm Prashant 👋 - Senior Frontend Engineer
 
 **React.js · Next.js · TypeScript · Node.js**
 
