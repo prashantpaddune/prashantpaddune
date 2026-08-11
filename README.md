@@ -1,4 +1,4 @@
-### Hi, I'm Prashant 👋 - Senior Frontend Engineer
+### Hi, I'm Prashant 👋 - Senior Software Engineer
 
 **React.js · Next.js · TypeScript · Node.js**
 
